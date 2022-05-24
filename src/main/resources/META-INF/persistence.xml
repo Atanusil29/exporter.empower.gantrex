@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.2"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+	<persistence-unit name="hsql"
+		transaction-type="RESOURCE_LOCAL">
+		<class>com.blg.app.dbo.model.Document</class>
+		<class>com.blg.app.dbo.model.DocumentContent</class>
+
+		<properties>
+			<property name="javax.persistence.jdbc.driver"
+				value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+			<!--<property name="javax.persistence.jdbc.driver" value="com.p6spy.engine.spy.P6SpyDriver"/> -->
+
+			<property name="hibernate.dialect" value="org.hibernate.dialect.SQLServer2012Dialect" />
+			<!--<property name="hibernate.show_sql" value="true"/> -->
+			<property name="hibernate.hbm2ddl.auto" value="none" />
+			<property name="hibernate.show_sql" value="true" />
+			<property name="hibernate.proc.param_null_passing" value="true" />
+			<!--<property name="hibernate.show_sql" value="true"/> --><!--debug -->
+			<property name="hibernate.format_sql" value="true" />
+			<property name="hibernate.jdbc.batch_size" value="30" />
+			<property name="hibernate.jdbc.batch_versioned_data" value="true" />
+			<property name="hibernate.order_inserts" value="true" />
+			<property name="hibernate.order_updates" value="true" />
+			<property name="hibernate.cache.use_second_level_cache"	value="false" />
+			<property name="hibernate.connection.autocommit" value="false" />
+			<property name="hibernate.default_schema" value="dbo" />
+
+			<property name="hibernate.connection.provider_class" value="org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider" />
+
+			<property name="hibernate.c3p0.max_size" value="20" />
+			<property name="hibernate.c3p0.min_size" value="5" />
+			<property name="hibernate.c3p0.acquire_increment" value="1" />
+			<property name="hibernate.c3p0.idle_test_period" value="300" />
+			<property name="hibernate.c3p0.max_statements" value="50" />
+			<property name="hibernate.c3p0.timeout" value="100" />
+
+			<!--<property name="hibernate.transaction.auto_close_session" value="true" 
+				/> -->
+			<!-- <property name="hibernate.transaction.factory_class" value="org.hibernate.transaction.JTATransactionFactory" 
+				/> -->
+			<!-- <property name="hibernate.transaction.manager_lookup_class" value="org.hibernate.transaction.JBossTransactionManagerLookup" 
+				/> -->
+			<!-- <property name="hibernate.current_session_context_class" value="jta" 
+				/> -->
+
+		</properties>
+
+	</persistence-unit>
+</persistence>

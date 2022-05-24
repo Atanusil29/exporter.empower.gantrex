@@ -1,0 +1,88 @@
+2020-02-19 21:18:11 INFO  - org.hibernate.jpa.internal.util.LogHelper [main] - HHH000204: Processing PersistenceUnitInfo [name: hsql]
+2020-02-19 21:18:11 INFO  - org.hibernate.Version [main] - HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-19 21:18:12 INFO  - org.hibernate.annotations.common.Version [main] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-19 21:18:13 INFO  - org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator [main] - HHH000130: Instantiating explicit connection provider: org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider
+2020-02-19 21:18:13 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH010002: C3P0 using driver: com.microsoft.sqlserver.jdbc.SQLServerDriver at URL: jdbc:sqlserver://WIN-J5E1TGIE6DQ;instanceName=SQLEXPRESS;DatabaseName=EmpowerRep
+2020-02-19 21:18:13 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001001: Connection properties: {user=sa, password=****, autocommit=false}
+2020-02-19 21:18:13 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001003: Autocommit mode: false
+2020-02-19 21:18:13 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001007: JDBC isolation level: <unknown>
+2020-02-19 21:27:00 INFO  - org.hibernate.jpa.internal.util.LogHelper [main] - HHH000204: Processing PersistenceUnitInfo [name: hsql]
+2020-02-19 21:27:01 INFO  - org.hibernate.Version [main] - HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-19 21:27:01 INFO  - org.hibernate.annotations.common.Version [main] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-19 21:27:01 INFO  - org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator [main] - HHH000130: Instantiating explicit connection provider: org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider
+2020-02-19 21:27:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH010002: C3P0 using driver: com.microsoft.sqlserver.jdbc.SQLServerDriver at URL: jdbc:sqlserver://WIN-J5E1TGIE6DQ;instanceName=SQLEXPRESS;DatabaseName=EmpowerRep
+2020-02-19 21:27:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001001: Connection properties: {user=sa, password=****, autocommit=false}
+2020-02-19 21:27:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001003: Autocommit mode: false
+2020-02-19 21:27:02 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001007: JDBC isolation level: <unknown>
+2020-02-19 21:27:03 INFO  - org.hibernate.dialect.Dialect [main] - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-19 21:27:05 INFO  - org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-19 21:30:28 INFO  - org.hibernate.jpa.internal.util.LogHelper [main] - HHH000204: Processing PersistenceUnitInfo [name: hsql]
+2020-02-19 21:30:28 INFO  - org.hibernate.Version [main] - HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-19 21:30:28 INFO  - org.hibernate.annotations.common.Version [main] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-19 21:30:29 INFO  - org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator [main] - HHH000130: Instantiating explicit connection provider: org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider
+2020-02-19 21:30:29 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH010002: C3P0 using driver: com.microsoft.sqlserver.jdbc.SQLServerDriver at URL: jdbc:sqlserver://WIN-J5E1TGIE6DQ;instanceName=SQLEXPRESS;DatabaseName=EmpowerRep
+2020-02-19 21:30:29 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001001: Connection properties: {user=sa, password=****, autocommit=false}
+2020-02-19 21:30:29 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001003: Autocommit mode: false
+2020-02-19 21:30:29 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001007: JDBC isolation level: <unknown>
+2020-02-19 21:30:30 INFO  - org.hibernate.dialect.Dialect [main] - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-19 21:30:32 INFO  - org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-19 14:53:55 INFO  - org.hibernate.jpa.internal.util.LogHelper [main] - HHH000204: Processing PersistenceUnitInfo [name: hsql]
+2020-02-19 14:53:55 INFO  - org.hibernate.Version [main] - HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-19 14:53:56 INFO  - org.hibernate.annotations.common.Version [main] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-19 14:53:56 INFO  - org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator [main] - HHH000130: Instantiating explicit connection provider: org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider
+2020-02-19 14:53:56 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH010002: C3P0 using driver: com.microsoft.sqlserver.jdbc.SQLServerDriver at URL: jdbc:sqlserver://WIN-J5E1TGIE6DQ;instanceName=SQLEXPRESS;DatabaseName=EmpowerRep
+2020-02-19 14:53:56 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001001: Connection properties: {user=sa, password=****, autocommit=false}
+2020-02-19 14:53:56 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001003: Autocommit mode: false
+2020-02-19 14:53:56 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001007: JDBC isolation level: <unknown>
+2020-02-19 14:53:57 INFO  - org.hibernate.dialect.Dialect [main] - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-19 14:53:59 INFO  - org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-19 14:56:43 INFO  - org.hibernate.jpa.internal.util.LogHelper [main] - HHH000204: Processing PersistenceUnitInfo [name: hsql]
+2020-02-19 14:56:43 INFO  - org.hibernate.Version [main] - HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-19 14:56:43 INFO  - org.hibernate.annotations.common.Version [main] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-19 14:56:44 INFO  - org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator [main] - HHH000130: Instantiating explicit connection provider: org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider
+2020-02-19 14:56:44 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH010002: C3P0 using driver: com.microsoft.sqlserver.jdbc.SQLServerDriver at URL: jdbc:sqlserver://WIN-J5E1TGIE6DQ;instanceName=SQLEXPRESS;DatabaseName=EmpowerRep
+2020-02-19 14:56:44 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001001: Connection properties: {user=sa, password=****, autocommit=false}
+2020-02-19 14:56:44 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001003: Autocommit mode: false
+2020-02-19 14:56:44 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001007: JDBC isolation level: <unknown>
+2020-02-19 14:56:45 INFO  - org.hibernate.dialect.Dialect [main] - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-19 14:56:47 INFO  - org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-19 14:58:24 INFO  - org.hibernate.jpa.internal.util.LogHelper [main] - HHH000204: Processing PersistenceUnitInfo [name: hsql]
+2020-02-19 14:58:24 INFO  - org.hibernate.Version [main] - HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-19 14:58:25 INFO  - org.hibernate.annotations.common.Version [main] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-19 14:58:25 INFO  - org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator [main] - HHH000130: Instantiating explicit connection provider: org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider
+2020-02-19 14:58:25 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH010002: C3P0 using driver: com.microsoft.sqlserver.jdbc.SQLServerDriver at URL: jdbc:sqlserver://WIN-J5E1TGIE6DQ;instanceName=SQLEXPRESS;DatabaseName=EmpowerRep
+2020-02-19 14:58:25 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001001: Connection properties: {user=sa, password=****, autocommit=false}
+2020-02-19 14:58:25 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001003: Autocommit mode: false
+2020-02-19 14:58:26 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001007: JDBC isolation level: <unknown>
+2020-02-19 14:58:27 INFO  - org.hibernate.dialect.Dialect [main] - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-19 14:58:29 INFO  - org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-19 14:59:10 INFO  - org.hibernate.jpa.internal.util.LogHelper [main] - HHH000204: Processing PersistenceUnitInfo [name: hsql]
+2020-02-19 14:59:10 INFO  - org.hibernate.Version [main] - HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-19 14:59:11 INFO  - org.hibernate.annotations.common.Version [main] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-19 14:59:12 INFO  - org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator [main] - HHH000130: Instantiating explicit connection provider: org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider
+2020-02-19 14:59:12 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH010002: C3P0 using driver: com.microsoft.sqlserver.jdbc.SQLServerDriver at URL: jdbc:sqlserver://WIN-J5E1TGIE6DQ;instanceName=SQLEXPRESS;DatabaseName=EmpowerRep
+2020-02-19 14:59:12 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001001: Connection properties: {user=sa, password=****, autocommit=false}
+2020-02-19 14:59:12 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001003: Autocommit mode: false
+2020-02-19 14:59:12 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001007: JDBC isolation level: <unknown>
+2020-02-19 14:59:14 INFO  - org.hibernate.dialect.Dialect [main] - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-19 14:59:16 INFO  - org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-19 15:03:00 INFO  - org.hibernate.jpa.internal.util.LogHelper [main] - HHH000204: Processing PersistenceUnitInfo [name: hsql]
+2020-02-19 15:03:00 INFO  - org.hibernate.Version [main] - HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-19 15:03:00 INFO  - org.hibernate.annotations.common.Version [main] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-19 15:03:01 INFO  - org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator [main] - HHH000130: Instantiating explicit connection provider: org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider
+2020-02-19 15:03:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH010002: C3P0 using driver: com.microsoft.sqlserver.jdbc.SQLServerDriver at URL: jdbc:sqlserver://WIN-J5E1TGIE6DQ;instanceName=SQLEXPRESS;DatabaseName=EmpowerRep
+2020-02-19 15:03:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001001: Connection properties: {user=sa, password=****, autocommit=false}
+2020-02-19 15:03:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001003: Autocommit mode: false
+2020-02-19 15:03:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001007: JDBC isolation level: <unknown>
+2020-02-19 15:03:03 INFO  - org.hibernate.dialect.Dialect [main] - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-19 15:03:04 INFO  - org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-19 15:08:00 INFO  - org.hibernate.jpa.internal.util.LogHelper [main] - HHH000204: Processing PersistenceUnitInfo [name: hsql]
+2020-02-19 15:08:00 INFO  - org.hibernate.Version [main] - HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-19 15:08:00 INFO  - org.hibernate.annotations.common.Version [main] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-19 15:08:01 INFO  - org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator [main] - HHH000130: Instantiating explicit connection provider: org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider
+2020-02-19 15:08:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH010002: C3P0 using driver: com.microsoft.sqlserver.jdbc.SQLServerDriver at URL: jdbc:sqlserver://WIN-J5E1TGIE6DQ;instanceName=SQLEXPRESS;DatabaseName=EmpowerRep
+2020-02-19 15:08:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001001: Connection properties: {user=sa, password=****, autocommit=false}
+2020-02-19 15:08:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001003: Autocommit mode: false
+2020-02-19 15:08:01 INFO  - org.hibernate.c3p0.internal.C3P0ConnectionProvider [main] - HHH10001007: JDBC isolation level: <unknown>
+2020-02-19 15:08:03 INFO  - org.hibernate.dialect.Dialect [main] - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-19 15:08:04 INFO  - org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
